@@ -58,7 +58,7 @@
 
 ###
 
-<h3 align="left">🛠️ DevOps & Databases</h3>
+<h3 align="left">🛠️ DevOps </h3>
 
 ###
 
