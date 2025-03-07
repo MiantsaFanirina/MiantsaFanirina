@@ -76,6 +76,32 @@
 
 ###
 
+<h3 align="left">📫 Let's Connect</h3>
+
+###
+
+<p align="left">
+  <a href="mailto:MiantsaFanirinaRakotondrafara@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
+  </a>
+  <a href="https://www.facebook.com/miantsa.fani">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook">
+  </a>
+  <a href="https://www.instagram.com/miantsafanirina/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram">
+  </a>
+</p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MiantsaFanirina&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiantsaFanirina&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
