@@ -97,9 +97,4 @@
 ###
 
 <h1 align="left"></h1>
-
-###
-
-<img src="https://raw.githubusercontent.com/MiantsaFanirina/MiantsaFanirina/output/snake.svg" alt="Snake animation" />
-
 ###
