@@ -94,8 +94,6 @@
 
 ###
 
-<p align="left"></p>
-
 ###
 
 <h1 align="left"></h1>
