@@ -1,24 +1,24 @@
-<h1 align="left">👋 Hi, I'm Miantsa Fanirina!</h1>
+<h1 align="left">Hi, I'm Miantsa Fanirina!</h1>
 
 ###
 
-<p align="left">🎯 Full-Stack JavaScript Developer | Web & Mobile<br>🚀 Passionate about building scalable and high-performance applications</p>
+<p align="left">Full-Stack JavaScript Developer | Web & Mobile<br>🚀 Passionate about building scalable and high-performance applications</p>
 
 ###
 
-<h2 align="left">🔥 About Me</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">🏗️ 3+ years of experience in Web & Mobile Development<br><br>⚡ Specializing in React.js, Next.js, NestJS, React Native, Node.js<br><br>🛠️ Experienced with TypeScript, TailwindCSS, Prisma, Laravel, Symfony<br><br>📱 Creating user-friendly, scalable, and maintainable applications<br><br>🌍 Open to collaborations & new opportunities</p>
+<p align="left">3+ years of experience in Web & Mobile Development<br><br>Specializing in React.js, Next.js, NestJS, React Native, Node.js<br><br>🛠️ Experienced with TypeScript, TailwindCSS, Prisma, Laravel, Symfony<br><br> Creating user-friendly, scalable, and maintainable applications<br><br>Open to collaborations & new opportunities</p>
 
 ###
 
-<h2 align="left">⚙️ Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
-<h3 align="left">🚀 Frontend</h3>
+<h3 align="left">Frontend</h3>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="left">🔥 Backend</h3>
+<h3 align="left">Backend</h3>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<h3 align="left">🛠️ DevOps </h3>
+<h3 align="left">DevOps </h3>
 
 ###
 
@@ -76,7 +76,7 @@
 
 ###
 
-<h3 align="left">📫 Let's Connect</h3>
+<h3 align="left">Let's Connect</h3>
 
 ###
 
