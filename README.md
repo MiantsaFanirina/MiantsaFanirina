@@ -11,7 +11,7 @@
 ###
 
 **portfolio:** [miantsa-fanirina.vercel.app](https://miantsa-fanirina.vercel.app)
-<p align="left">4+ years of experience in Web & Mobile Development<br><br>Specializing in React.js, Next.js, NestJS, React Native, Node.js<br><br>Experienced with TypeScript, TailwindCSS, Prisma, Laravel, Symfony<br><br> Creating user-friendly, scalable, and maintainable applications<br><br>Open to collaborations & new opportunities</p>
+<p align="left">5+ years of experience in Web & Mobile Development<br><br>Specializing in React.js, Next.js, NestJS, React Native, Node.js<br><br>Experienced with TypeScript, TailwindCSS, Prisma, Laravel, Symfony<br><br> Creating user-friendly, scalable, and maintainable applications<br><br>Open to collaborations & new opportunities</p>
 
 ###
 
