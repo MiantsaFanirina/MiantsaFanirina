@@ -37,13 +37,13 @@
 
 ## Tech Stack
 
-<table width="100%">
+<table style="width: 100%;">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top">
       <h3>Frontend</h3>
       <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,angular,tailwind,materialui&theme=dark" height="40" width="280" />
     </td>
-    <td valign="top" width="50%">
+    <td valign="top">
       <h3>Backend</h3>
       <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,php,laravel,django&theme=dark" height="40" width="240" />
     </td>
