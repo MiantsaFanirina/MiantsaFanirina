@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MiantsaFanirina/MiantsaFanirina/main/logo-me-no-bg.png#gh-dark-mode-only" alt="Me" style="border-radius: 20px; width: 250px;" />
-  <img src="https://raw.githubusercontent.com/MiantsaFanirina/MiantsaFanirina/main/logo-me.png#gh-light-mode-only" alt="Me" style="border-radius: 20px; width: 250px;" />
+  <a href="#gh-dark-mode-only">
+    <img src="https://raw.githubusercontent.com/MiantsaFanirina/MiantsaFanirina/main/logo-me-no-bg.png" alt="Me" style="border-radius: 20px; width: 250px;" />
+  </a>
+  <a href="#gh-light-mode-only">
+    <img src="https://raw.githubusercontent.com/MiantsaFanirina/MiantsaFanirina/main/logo-me.png" alt="Me" style="border-radius: 20px; width: 250px;" />
+  </a>
 </p>
 
 <h1 align="center">
