@@ -1,10 +1,8 @@
 <p align="center">
-  <a href="#gh-dark-mode-only">
-    <img src="https://raw.githubusercontent.com/MiantsaFanirina/MiantsaFanirina/main/logo-me-no-bg.png" alt="Me" style="border-radius: 20px; width: 250px;" />
-  </a>
-  <a href="#gh-light-mode-only">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/MiantsaFanirina/MiantsaFanirina/main/logo-me-no-bg.png" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/MiantsaFanirina/MiantsaFanirina/main/logo-me.png" alt="Me" style="border-radius: 20px; width: 250px;" />
-  </a>
+  </picture>
 </p>
 
 <h1 align="center">
