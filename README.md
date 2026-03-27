@@ -36,8 +36,7 @@
 ---
 
 ## Tech Stack
-<p align="center">
-<table style="width: 100%;">
+<table align="center" style="width: 100%;">
   <tr>
     <td valign="top" width="50%">
       <h3>Frontend</h3>
@@ -69,7 +68,6 @@
     </td>
   </tr>
 </table>
-</p>
 ---
 
 ## Connect With Me
