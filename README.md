@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MiantsaFanirina/MiantsaFanirina/main/logo-me.png" alt="Me" style="border-radius: 20px; width: 100px;" />
+  <img src="https://raw.githubusercontent.com/MiantsaFanirina/MiantsaFanirina/main/logo-me.png" alt="Me" style="border-radius: 20px; width: 250px;" />
 </p>
 
 <h1 align="center">
