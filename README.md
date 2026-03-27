@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source srcset="https://raw.githubusercontent.com/MiantsaFanirina/MiantsaFanirina/main/logo-me-no-bg.png" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/MiantsaFanirina/MiantsaFanirina/main/logo-me.png" alt="Me" style="border-radius: 20px; width: 250px;" />
+    <source srcset="https://raw.githubusercontent.com/MiantsaFanirina/MiantsaFanirina/main/logo-me-dark-mode.png" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/MiantsaFanirina/MiantsaFanirina/main/logo-me-light-mode.png" alt="Me" style="border-radius: 20px; width: 250px;" />
   </picture>
 </p>
 
