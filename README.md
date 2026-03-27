@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MiantsaFanirina&label=Profile%20Views&color=60a5fa&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/badge/Open%20to-Work-green?style=flat-square" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-8eb7ed?style=flat-square" alt="Open to Work" />
 </p>
 
 ---
