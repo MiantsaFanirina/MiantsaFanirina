@@ -1,95 +1,98 @@
-<h1 align="left">Hi, I'm Miantsa Fanirina!</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=2383d8&center=true&vCenter=true&width=435&lines=Hi,+I'm+Miantsa+Fanirina!;Full-Stack+JavaScript+Developer;Building+scalable+applications" alt="Typing SVG" />
+</h1>
 
-###
-
-<p align="left">Full-Stack JavaScript Developer | Web & Mobile<br>Passionate about building scalable and high-performance applications</p>
-
-###
-
-<h2 align="left">About Me</h2>
-
-###
-
-**portfolio:** [miantsa-fanirina.vercel.app](https://miantsa-fanirina.vercel.app)
-<p align="left">5+ years of experience in Web & Mobile Development<br><br>Specializing in React.js, Next.js, NestJS, React Native, Node.js<br><br>Experienced with TypeScript, TailwindCSS, Prisma, Laravel, Symfony<br><br> Creating user-friendly, scalable, and maintainable applications<br><br>Open to collaborations & new opportunities</p>
-
-###
-
-<h2 align="left">Tech Stack</h2>
-
-###
-
-<h3 align="left">Frontend</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="40" alt="atom logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-</div>
-
-###
-
-<h3 align="left">Backend</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-</div>
-
-###
-
-<h3 align="left">DevOps </h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
-###
-
-<h3 align="left">Let's Connect</h3>
-
-###
-
-<p align="left">
-  <a href="mailto:MiantsaFanirinaRakotondrafara@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=MiantsaRF&theme=github-dark&border_radius=8" alt="streak stats" />
   </a>
-  <a href="https://www.facebook.com/miantsa.fani">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook">
-  </a>
-  <a href="https://www.instagram.com/miantsafanirina/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=MiantsaRF&show_icons=true&theme=github_dark&border_radius=12&hide_border=true&include_all_commits=true&count_private=true" alt="stats" height="180" />
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MiantsaRF&label=Profile%20Views&color=2383d8&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-green?style=flat-square" alt="Open to Work" />
+</p>
+
+---
+
+## About Me
+
+<p align="left">
+  <a href="https://miantsa-fanirina.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+- Currently working on: Scalable web and mobile applications
+- 5+ years of experience in Full-Stack Development
+- Specializing in: React.js, Next.js, NestJS, React Native
+- Always learning: New technologies and best practices
+- Open to collaborations and new opportunities
+- Contact: MiantsaFanirinaRakotondrafara@gmail.com
+
+---
+
+## Tech Stack
+
+### Frontend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,angular,tailwind,materialui" height="40" alt="Frontend" />
+</div>
+
+### Backend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,php,laravel,django" height="40" alt="Backend" />
+</div>
+
+### Mobile
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=reactnative,flutter" height="40" alt="Mobile" />
+</div>
+
+### Databases and Cloud
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,redis,aws,gcp,azure" height="40" alt="Databases and Cloud" />
+</div>
+
+### DevOps and Tools
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,nginx,vercel,figma" height="40" alt="DevOps and Tools" />
+</div>
+
+---
+
+## Top Languages
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiantsaRF&layout=compact&theme=github_dark&border_radius=10&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="mailto:MiantsaFanirinaRakotondrafara@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/miantsa-fanirina" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/MiantsaRF" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/miantsafanirina" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=2383d8&height=100&section=footer&animation=fadeIn" alt="Footer" />
+</p>
