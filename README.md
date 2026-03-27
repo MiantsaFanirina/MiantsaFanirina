@@ -41,31 +41,37 @@
   <tr>
     <td valign="top" width="50%">
       <h3>Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,angular,tailwind,materialui" height="40" width="280" alt="Frontend" />
+      <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,angular,tailwind,materialui&theme=light" height="40" width="280" alt="Frontend" style="display:block" />
+      <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,angular,tailwind,materialui&theme=dark" height="40" width="280" alt="Frontend" style="display:none" />
     </td>
     <td valign="top" width="50%">
       <h3>Backend</h3>
-      <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,php,laravel,django" height="40" width="240" alt="Backend" />
+      <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,php,laravel,django&theme=light" height="40" width="240" alt="Backend" style="display:block" />
+      <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,php,laravel,django&theme=dark" height="40" width="240" alt="Backend" style="display:none" />
     </td>
   </tr>
   <tr>
     <td valign="top">
       <h3>Mobile</h3>
-      <img src="https://skillicons.dev/icons?i=flutter,reactnative" height="40" width="80" alt="Mobile" />
+      <img src="https://skillicons.dev/icons?i=flutter,reactnative&theme=light" height="40" width="80" alt="Mobile" style="display:block" />
+      <img src="https://skillicons.dev/icons?i=flutter,reactnative&theme=dark" height="40" width="80" alt="Mobile" style="display:none" />
     </td>
     <td valign="top">
       <h3>Databases</h3>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,redis" height="40" width="200" alt="Databases" />
+      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,redis&theme=light" height="40" width="200" alt="Databases" style="display:block" />
+      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,redis&theme=dark" height="40" width="200" alt="Databases" style="display:none" />
     </td>
   </tr>
   <tr>
     <td valign="top">
       <h3>Cloud</h3>
-      <img src="https://skillicons.dev/icons?i=aws,gcp,azure" height="40" width="120" alt="Cloud" />
+      <img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=light" height="40" width="120" alt="Cloud" style="display:block" />
+      <img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark" height="40" width="120" alt="Cloud" style="display:none" />
     </td>
     <td valign="top">
       <h3>DevOps</h3>
-      <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,nginx,vercel,figma" height="40" width="240" alt="DevOps" />
+      <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,nginx,vercel,figma&theme=light" height="40" width="240" alt="DevOps" style="display:block" />
+      <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,nginx,vercel,figma&theme=dark" height="40" width="240" alt="DevOps" style="display:none" />
     </td>
   </tr>
 </table>
