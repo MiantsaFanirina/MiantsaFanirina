@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Open%20to-Work-6b8fc4?style=flat-square" alt="Open to Work" />
 </p>
 
----
+
 
 ## About Me
 
@@ -33,7 +33,7 @@
 - Open to collaborations and new opportunities
 - Contact: MiantsaFanirinaRakotondrafara@gmail.com
 
----
+
 
 ## Tech Stack
 <table align="center" style="width: 100%;">
@@ -68,7 +68,7 @@
     </td>
   </tr>
 </table>
----
+
 
 ## Connect With Me
 
@@ -87,7 +87,7 @@
   </a>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=60a5fa&height=100&section=footer&animation=fadeIn" alt="Footer" />
