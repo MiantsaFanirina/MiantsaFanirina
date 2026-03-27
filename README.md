@@ -32,30 +32,38 @@
 
 ## Tech Stack
 
-### Frontend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,angular,tailwind,materialui" height="40" alt="Frontend" />
-</div>
-
-### Backend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,php,laravel,django" height="40" alt="Backend" />
-</div>
-
-### Mobile
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="Mobile" />
-</div>
-
-### Databases and Cloud
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,redis,aws,gcp,azure" height="40" alt="Databases and Cloud" />
-</div>
-
-### DevOps and Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,nginx,vercel,figma" height="40" alt="DevOps and Tools" />
-</div>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,angular,tailwind,materialui" height="40" alt="Frontend" />
+    </td>
+    <td valign="top" width="50%">
+      <h3>Backend</h3>
+      <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,php,laravel,django" height="40" alt="Backend" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>Mobile</h3>
+      <img src="https://skillicons.dev/icons?i=flutter,reactnative" height="40" alt="Mobile" />
+    </td>
+    <td valign="top">
+      <h3>Databases</h3>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,redis" height="40" alt="Databases" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>Cloud</h3>
+      <img src="https://skillicons.dev/icons?i=aws,gcp,azure" height="40" alt="Cloud" />
+    </td>
+    <td valign="top">
+      <h3>DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,nginx,vercel,figma" height="40" alt="DevOps" />
+    </td>
+  </tr>
+</table>
 
 ---
 
