@@ -8,12 +8,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MiantsaFanirina&theme=github-light&fire=8eb7ed&currStreakNum=8eb7ed&currStreakLabel=8eb7ed&sideNums=8eb7ed&sideLabels=8eb7ed&ring=8eb7ed&dates=8eb7ed&border=8eb7ed&stroke=8eb7ed&background=transparent&border_radius=8" />
+  <img src="https://streak-stats.demolab.com/?user=MiantsaFanirina&theme=github-light&fire=6b8fc4&currStreakNum=6b8fc4&currStreakLabel=6b8fc4&sideNums=6b8fc4&sideLabels=6b8fc4&ring=6b8fc4&dates=6b8fc4&border=6b8fc4&stroke=6b8fc4&background=transparent&border_radius=8" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MiantsaFanirina&label=Profile%20Views&color=60a5fa&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/badge/Open%20to-Work-8eb7ed?style=flat-square" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-6b8fc4?style=flat-square" alt="Open to Work" />
 </p>
 
 ---
