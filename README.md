@@ -8,8 +8,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MiantsaFanirina&theme=github-light&color=8eb7ed&border_radius=8#gh-light-mode-only" />
-  <img src="https://streak-stats.demolab.com/?user=MiantsaFanirina&theme=github-dark&color=8eb7ed&border_radius=8#gh-dark-mode-only" />
+  <img src="https://streak-stats.demolab.com/?user=MiantsaFanirina&theme=github-light&border_radius=8" />
 </p>
 
 <p align="center">
