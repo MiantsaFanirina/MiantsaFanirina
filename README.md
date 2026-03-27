@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MiantsaFanirina&theme=github-dark&fire=8eb7ed&currStreakNum=8eb7ed&sideNums=8eb7ed&border_radius=8" />
+  <img src="https://streak-stats.demolab.com/?user=MiantsaFanirina&theme=github-dark&fire=8eb7ed&currStreakNum=8eb7ed&currStreakLabel=8eb7ed&sideNums=8eb7ed&sideLabels=8eb7ed&ring=8eb7ed&dates=8eb7ed&border_radius=8" />
 </p>
 
 <p align="center">
