@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MiantsaFanirina/MiantsaFanirina/main/logo-me.png" alt="Me" style="border-radius: 10px;" />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=2383d8&center=true&vCenter=true&width=600&lines=Hi,+I'm+Miantsa+Fanirina!;Full-Stack+JavaScript+Developer;Building+scalable+applications" alt="Typing SVG" />
 </h1>
@@ -36,31 +40,54 @@
   <tr>
     <td valign="top" width="50%">
       <h3>Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,angular,tailwind,materialui" height="40" alt="Frontend" />
+      <img src="https://skillicons.dev/icons?i=javascript" height="40" width="40" alt="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=typescript" height="40" width="40" alt="TypeScript" />
+      <img src="https://skillicons.dev/icons?i=react" height="40" width="40" alt="React" />
+      <img src="https://skillicons.dev/icons?i=nextjs" height="40" width="40" alt="Next.js" />
+      <img src="https://skillicons.dev/icons?i=angular" height="40" width="40" alt="Angular" />
+      <img src="https://skillicons.dev/icons?i=tailwind" height="40" width="40" alt="Tailwind" />
+      <img src="https://skillicons.dev/icons?i=materialui" height="40" width="40" alt="Material UI" />
     </td>
     <td valign="top" width="50%">
       <h3>Backend</h3>
-      <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,php,laravel,django" height="40" alt="Backend" />
+      <img src="https://skillicons.dev/icons?i=nestjs" height="40" width="40" alt="NestJS" />
+      <img src="https://skillicons.dev/icons?i=nodejs" height="40" width="40" alt="Node.js" />
+      <img src="https://skillicons.dev/icons?i=express" height="40" width="40" alt="Express" />
+      <img src="https://skillicons.dev/icons?i=php" height="40" width="40" alt="PHP" />
+      <img src="https://skillicons.dev/icons?i=laravel" height="40" width="40" alt="Laravel" />
+      <img src="https://skillicons.dev/icons?i=django" height="40" width="40" alt="Django" />
     </td>
   </tr>
   <tr>
     <td valign="top">
       <h3>Mobile</h3>
-      <img src="https://skillicons.dev/icons?i=flutter,reactnative" height="40" alt="Mobile" />
+      <img src="https://skillicons.dev/icons?i=flutter" height="40" width="40" alt="Flutter" />
+      <img src="https://skillicons.dev/icons?i=reactnative" height="40" width="40" alt="React Native" />
     </td>
     <td valign="top">
       <h3>Databases</h3>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,redis" height="40" alt="Databases" />
+      <img src="https://skillicons.dev/icons?i=mongodb" height="40" width="40" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=postgresql" height="40" width="40" alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=mysql" height="40" width="40" alt="MySQL" />
+      <img src="https://skillicons.dev/icons?i=prisma" height="40" width="40" alt="Prisma" />
+      <img src="https://skillicons.dev/icons?i=redis" height="40" width="40" alt="Redis" />
     </td>
   </tr>
   <tr>
     <td valign="top">
       <h3>Cloud</h3>
-      <img src="https://skillicons.dev/icons?i=aws,gcp,azure" height="40" alt="Cloud" />
+      <img src="https://skillicons.dev/icons?i=aws" height="40" width="40" alt="AWS" />
+      <img src="https://skillicons.dev/icons?i=gcp" height="40" width="40" alt="GCP" />
+      <img src="https://skillicons.dev/icons?i=azure" height="40" width="40" alt="Azure" />
     </td>
     <td valign="top">
       <h3>DevOps</h3>
-      <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,nginx,vercel,figma" height="40" alt="DevOps" />
+      <img src="https://skillicons.dev/icons?i=git" height="40" width="40" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=docker" height="40" width="40" alt="Docker" />
+      <img src="https://skillicons.dev/icons?i=kubernetes" height="40" width="40" alt="Kubernetes" />
+      <img src="https://skillicons.dev/icons?i=nginx" height="40" width="40" alt="Nginx" />
+      <img src="https://skillicons.dev/icons?i=vercel" height="40" width="40" alt="Vercel" />
+      <img src="https://skillicons.dev/icons?i=figma" height="40" width="40" alt="Figma" />
     </td>
   </tr>
 </table>
