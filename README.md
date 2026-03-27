@@ -4,15 +4,15 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=MiantsaRF&theme=github-dark&border_radius=8" alt="streak stats" />
+    <img src="https://streak-stats.demolab.com/?user=MiantsaFanirina&theme=github-dark&border_radius=8" alt="streak stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MiantsaRF&show_icons=true&theme=github_dark&border_radius=12&hide_border=true&include_all_commits=true&count_private=true" alt="stats" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MiantsaFanirina&show_icons=true&theme=github_dark&border_radius=12&hide_border=true&include_all_commits=true&count_private=true" alt="stats" height="180" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MiantsaRF&label=Profile%20Views&color=2383d8&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=MiantsaFanirina&label=Profile%20Views&color=2383d8&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/badge/Open%20to-Work-green?style=flat-square" alt="Open to Work" />
 </p>
 
@@ -68,7 +68,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiantsaRF&layout=compact&theme=github_dark&border_radius=10&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiantsaFanirina&layout=compact&theme=github_dark&border_radius=10&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
@@ -83,7 +83,7 @@
   <a href="https://www.linkedin.com/in/miantsa-fanirina" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/MiantsaRF" target="_blank">
+  <a href="https://github.com/MiantsaFanirina" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://twitter.com/miantsafanirina" target="_blank">
