@@ -35,52 +35,43 @@
 
 ---
 
-<style>
-  .light-icon { display: block; }
-  .dark-icon { display: none; }
-  @media (prefers-color-scheme: dark) {
-    .light-icon { display: none; }
-    .dark-icon { display: block; }
-  }
-</style>
-
 ## Tech Stack
 
 <table>
   <tr>
     <td valign="top" width="50%">
       <h3>Frontend</h3>
-      <img class="light-icon" src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,angular,tailwind,materialui&theme=light" height="40" width="280" alt="Frontend" />
-      <img class="dark-icon" src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,angular,tailwind,materialui&theme=dark" height="40" width="280" alt="Frontend" />
+      <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,angular,tailwind,materialui&theme=light#gh-light-mode-only" height="40" width="280" alt="Frontend" />
+      <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,angular,tailwind,materialui&theme=dark#gh-dark-mode-only" height="40" width="280" alt="Frontend" />
     </td>
     <td valign="top" width="50%">
       <h3>Backend</h3>
-      <img class="light-icon" src="https://skillicons.dev/icons?i=nestjs,nodejs,express,php,laravel,django&theme=light" height="40" width="240" alt="Backend" />
-      <img class="dark-icon" src="https://skillicons.dev/icons?i=nestjs,nodejs,express,php,laravel,django&theme=dark" height="40" width="240" alt="Backend" />
+      <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,php,laravel,django&theme=light#gh-light-mode-only" height="40" width="240" alt="Backend" />
+      <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,php,laravel,django&theme=dark#gh-dark-mode-only" height="40" width="240" alt="Backend" />
     </td>
   </tr>
   <tr>
     <td valign="top">
       <h3>Mobile</h3>
-      <img class="light-icon" src="https://skillicons.dev/icons?i=flutter,reactnative&theme=light" height="40" width="80" alt="Mobile" />
-      <img class="dark-icon" src="https://skillicons.dev/icons?i=flutter,reactnative&theme=dark" height="40" width="80" alt="Mobile" />
+      <img src="https://skillicons.dev/icons?i=flutter,reactnative&theme=light#gh-light-mode-only" height="40" width="80" alt="Mobile" />
+      <img src="https://skillicons.dev/icons?i=flutter,reactnative&theme=dark#gh-dark-mode-only" height="40" width="80" alt="Mobile" />
     </td>
     <td valign="top">
       <h3>Databases</h3>
-      <img class="light-icon" src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,redis&theme=light" height="40" width="200" alt="Databases" />
-      <img class="dark-icon" src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,redis&theme=dark" height="40" width="200" alt="Databases" />
+      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,redis&theme=light#gh-light-mode-only" height="40" width="200" alt="Databases" />
+      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,redis&theme=dark#gh-dark-mode-only" height="40" width="200" alt="Databases" />
     </td>
   </tr>
   <tr>
     <td valign="top">
       <h3>Cloud</h3>
-      <img class="light-icon" src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=light" height="40" width="120" alt="Cloud" />
-      <img class="dark-icon" src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark" height="40" width="120" alt="Cloud" />
+      <img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=light#gh-light-mode-only" height="40" width="120" alt="Cloud" />
+      <img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark#gh-dark-mode-only" height="40" width="120" alt="Cloud" />
     </td>
     <td valign="top">
       <h3>DevOps</h3>
-      <img class="light-icon" src="https://skillicons.dev/icons?i=git,docker,kubernetes,nginx,vercel,figma&theme=light" height="40" width="240" alt="DevOps" />
-      <img class="dark-icon" src="https://skillicons.dev/icons?i=git,docker,kubernetes,nginx,vercel,figma&theme=dark" height="40" width="240" alt="DevOps" />
+      <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,nginx,vercel,figma&theme=light#gh-light-mode-only" height="40" width="240" alt="DevOps" />
+      <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,nginx,vercel,figma&theme=dark#gh-dark-mode-only" height="40" width="240" alt="DevOps" />
     </td>
   </tr>
 </table>
