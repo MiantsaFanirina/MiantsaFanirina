@@ -37,7 +37,6 @@
 
 ## Tech Stack
 
-<p align="center">
 <table style="width: 100%;">
   <tr>
     <td valign="top">
@@ -70,7 +69,6 @@
     </td>
   </tr>
 </table>
-</p>
 
 ---
 
