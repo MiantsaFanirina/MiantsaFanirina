@@ -36,40 +36,40 @@
 ---
 
 ## Tech Stack
-
+<p align="center">
 <table style="width: 100%;">
   <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h3>Frontend</h3>
       <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,angular,tailwind,materialui&theme=dark" height="40" width="280" />
     </td>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h3>Backend</h3>
       <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,php,laravel,django&theme=dark" height="40" width="240" />
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h3>Mobile</h3>
       <img src="https://skillicons.dev/icons?i=flutter,reactnative&theme=dark" height="40" width="80" />
     </td>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h3>Databases</h3>
       <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,redis&theme=dark" height="40" width="200" />
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h3>Cloud</h3>
       <img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark" height="40" width="120" />
     </td>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h3>DevOps</h3>
       <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,nginx,vercel,figma&theme=dark" height="40" width="240" />
     </td>
   </tr>
 </table>
-
+</p>
 ---
 
 ## Connect With Me
