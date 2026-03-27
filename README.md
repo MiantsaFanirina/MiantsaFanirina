@@ -1,14 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=2383d8&center=true&vCenter=true&width=435&lines=Hi,+I'm+Miantsa+Fanirina!;Full-Stack+JavaScript+Developer;Building+scalable+applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=2383d8&center=true&vCenter=true&width=600&lines=Hi,+I'm+Miantsa+Fanirina!;Full-Stack+JavaScript+Developer;Building+scalable+applications" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=MiantsaFanirina&theme=github-dark&border_radius=8" alt="streak stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MiantsaFanirina&show_icons=true&theme=github_dark&border_radius=12&hide_border=true&include_all_commits=true&count_private=true" alt="stats" height="180" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=MiantsaFanirina&theme=github-dark&border_radius=8" alt="streak stats" />
 </p>
 
 <p align="center">
@@ -49,7 +44,7 @@
 
 ### Mobile
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=reactnative,flutter" height="40" alt="Mobile" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="Mobile" />
 </div>
 
 ### Databases and Cloud
@@ -61,16 +56,6 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,nginx,vercel,figma" height="40" alt="DevOps and Tools" />
 </div>
-
----
-
-## Top Languages
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiantsaFanirina&layout=compact&theme=github_dark&border_radius=10&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
 
 ---
 
