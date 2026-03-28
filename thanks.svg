@@ -21,8 +21,8 @@
   </style>
   <defs>
     <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#43cea2"/>
-      <stop offset="100%" stop-color="#185a9d"/>
+      <stop offset="0%" stop-color="#6b8fc4"/>
+      <stop offset="100%" stop-color="#3a7bd5"/>
     </linearGradient>
   </defs>
   <g transform="translate(427, 65) scale(1, 1) translate(-427, -65)">
@@ -33,5 +33,5 @@
       <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 65Q 213.5 110 427 80T 854 90L 854 0 Z;M0 0L 0 80Q 213.5 50 427 50T 854 70L 854 0 Z;M0 0L 0 75Q 213.5 55 427 80T 854 95L 854 0 Z;M0 0L 0 65Q 213.5 110 427 80T 854 90L 854 0 Z"></animate>
     </path>
   </g>
-  <text text-anchor="middle" alignment-baseline="middle" x="50%" y="80%" class="text" style="fill:#f7f5f5;" stroke="none" stroke-width="1">Thanks for visiting</text>
+  <text text-anchor="middle" alignment-baseline="middle" x="50%" y="80%" class="text" style="fill:#ffffff;" stroke="none" stroke-width="1">Thanks for visiting</text>
 </svg>
