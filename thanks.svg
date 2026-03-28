@@ -26,6 +26,7 @@
     </linearGradient>
   </defs>
   <g transform="translate(427, 65) scale(1, 1) translate(-427, -65)">
+    <rect width="854" height="130" fill="white"/>
     <path d="" fill="url(#linear)" opacity="0.9">
       <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 50Q 213.5 90 427 60T 854 85L 854 0 Z;M0 0L 0 75Q 213.5 90 427 70T 854 60L 854 0 Z;M0 0L 0 95Q 213.5 65 427 95T 854 60L 854 0 Z;M0 0L 0 50Q 213.5 90 427 60T 854 85L 854 0 Z"></animate>
     </path>
