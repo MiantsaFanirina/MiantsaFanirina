@@ -90,5 +90,5 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=60a5fa&height=100&section=footer&animation=fadeIn" alt="Footer" />
+  <img src="https://raw.githubusercontent.com/MiantsaFanirina/MiantsaFanirina/main/thanks.svg" alt="Thanks" />
 </p>
