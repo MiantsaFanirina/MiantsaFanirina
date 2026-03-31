@@ -31,7 +31,6 @@
 - Specializing in: React.js, Next.js, NestJS, React Native
 - Always learning: New technologies and best practices
 - Open to collaborations and new opportunities
-- Contact: MiantsaFanirinaRakotondrafara@gmail.com
 
 
 
